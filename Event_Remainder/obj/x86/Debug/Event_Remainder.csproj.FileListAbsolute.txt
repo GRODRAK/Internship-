@@ -1,0 +1,24 @@
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\bin\x86\Debug\Event_Remainder.exe
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\bin\x86\Debug\Event_Remainder.pdb
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.Form1.resources
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.New_Event.resources
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.Properties.Resources.resources
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.View_Events.resources
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.csproj.GenerateResource.Cache
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.exe
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.pdb
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\bin\x86\Debug\Event_Reminder.mdb
+C:\Users\Rak\Documents\Visual Studio 2008\Projects\Event_Remainder\Backup\Event_Remainder\obj\x86\Debug\Event_Remainder.Edit_Event.resources
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.exe
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.pdb
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\bin\x86\Debug\Event_Reminder.mdb
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\bin\x86\Debug\Event_Remainder.exe
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\bin\x86\Debug\Event_Remainder.pdb
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.Edit_Event.resources
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.Form1.resources
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.New_Event.resources
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.Properties.Resources.resources
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.View_Events.resources
+C:\Users\Rak\Desktop\Internship--master\Event_Remainder\obj\x86\Debug\Event_Remainder.csproj.GenerateResource.Cache
